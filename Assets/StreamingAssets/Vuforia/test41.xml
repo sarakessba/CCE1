@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="test41" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="test41s_assembly" assemblyId="b9fd2ee51b89476bb100b53d2eb5f72e">
+<Part name="test41" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.0559324 0.0242012 0.109753" rotation="AD: 0.996014 -0.413999 0.280815 117.557" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="-0.0608939 -0.0373226 0.247334" rotation="AD: 0.994479 0.469946 -0.288089 123.602" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
